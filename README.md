@@ -132,3 +132,8 @@ app/google-services.json
 ## Observação
 
 Este projeto foi desenvolvido para fins acadêmicos e de aprendizado, com foco na utilização do Firebase Firestore em uma aplicação Android.
+
+
+## Vídeo no drive 
+
+https://drive.google.com/file/d/1oR0P-e218nTufnabF6A8KkT_NZNeeyC-/view?usp=drivesdk
